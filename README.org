@@ -1,10 +1,10 @@
 * pvars
 
+pvars is a small library to easily define persistent variables. Use
+them as normal variables, but they are actually persistent.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/ralt/pvars.git   |
-| commit  | {"messa  |
-| systems | pvars |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------|
+| source  | git:https://gitlab.com/ralt/pvars.git |
+| commit  | 3924cf1                               |
+| systems | pvars                                 |
+|---------+---------------------------------------|
